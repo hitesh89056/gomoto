@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heders{
+    background-color:#282932;
+    width: 100%;
+    height: 100px;
+
+}
+.logo{
+    width: 15%;
+    float: left;
+    margin: 25px 42px;
+}
+.nav{
+    float: left;
+}
+.nav-list {
+    list-style-type: none;
+
+}
+
+.nav-list li {
+    float: left;
+    width: 20%;
+    display: inline-flex;
+   
+   
+}
+.nav-list li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 125px;
+    margin-top: 34px;
+}
+.home {
+    color:#f7b614;;
+    margin-top: 10px;
+    margin-left: -38px;
+}
+.login{
+    color: #f7b614;
+    font-size:18px ;
+    margin-top: 35px;
+    margin-left: 362px;
+}
+.imag2{
+    background-size: cover;
+    width: 100%;
+    height: 1038px;
+    background-attachment: fixed;
+
+}
+.imag3{
+    margin-top: -869px;
+    margin-left: 428px;
+    width: 1080px;
+    height: 887px;
+    background-attachment: fixed;
+}
+.imag4{
+    margin-top: -930px;
+    margin-left: 20px;
+    background-attachment: fixed;
+   
+}
+.line{
+    font-size: 100px;
+    margin-top: -1036px;
+    margin-left: 60px;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.line2{
+    margin-left: 60px;
+    margin-top: -8px;
+    font-size: 100px;
+    color: #f7b614;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.para{
+    font-size: 18px;
+    margin-left: 60px;
+    color: #fff;
+}
+.btn{
+    width: 15%;
+    height: 72px;
+    margin-left: 53px;
+    margin-top: 41px;
+    border-radius: 74px;
+    border: none;
+    background-color: #f7b614;
+}
+.btn a{
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+}
+.box{
+    width: 22%;
+    height: 162px;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: -4px 15px 25px #696969,0px 0px 0 rgb(0 0 0 / 15%);
+     
+    float: left;
+    margin: 22px;
+    margin-top: -10px;
+}
+.box:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+    background-color: rgb(201, 200, 200);
+}
+.boxes{
+    width: 30%;
+    height: 89px;
+    margin: 35px 22px;
+}
+.name{
+    margin-top: -93px;
+    margin-left: 154px;
+    
+}
+.name a{
+    text-decoration: none;
+    color: #000;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.para2{
+    text-align: center;
+    color: #f7b614;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    margin-top: 856px;
+}
+.para3{
+    text-align: center;
+    color: #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
+.list{
+    text-decoration:none;
+    margin-left: 69px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.all-list{
+    margin-left: 429px;
+    margin-top: 21px;
+    font-size: 22px;
+}
+.list:hover{
+    color: #f7b614;
+    transition:0.3s ;
+}
+.fullbox{
+    width: 29%;
+    height:auto;
+    float: left;
+    margin: 30px;
+
+}
+.item{
+    width: 72%;
+    height: 323px;
+    margin-top: -23px;
+    margin-left: 66px;
+}
+
+.item:hover{
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
+.item2{
+    width: 135px;
+    height: 96px;
+    margin-top: -40px;
+    margin-left: 162px;
+}
+.itemname{
+    text-align: center;
+    margin-top: -37px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.itempara{
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(74, 73, 73);
+    margin-top: 5px;
+
+}
+.itemname:hover{
+    color: #f7b614;
+    transition:0.2s ;
+}
+.Order{
+    width: 40%;
+    height: 62px;
+    margin-left: 127px;
+    margin-top: 20px;
+    border-radius: 74px;
+    border: none;
+    background-color: #f7b614;
+}
+.Order a{
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+}
+.rate{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
